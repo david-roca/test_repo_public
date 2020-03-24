@@ -3,7 +3,7 @@
 
 <!-- BADGES -->
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/DanielYago/test_repo_public/graphs/commit-activity)
-[![GitHub release](https://img.shields.io/github/release/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)
 [![Github all releases](https://img.shields.io/github/downloads/DanielYago/test_repo_public/total.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)  
 [![GitHub issues](https://img.shields.io/github/issues/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/issues?q=is%3Aissue+is%3Aclosed)

@@ -4,12 +4,10 @@
 <!-- BADGES -->
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/DanielYago/test_repo_public/graphs/commit-activity)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)
-[![Github all releases](https://img.shields.io/github/downloads/DanielYago/test_repo_public/total.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)  
+[![Github all releases](https://img.shields.io/github/downloads/DanielYago/test_repo_public/total.svg)](https://GitHub.com/DanielYago/test_repo_public/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub contributors](https://img.shields.io/github/contributors/DanielYago/test_repo_public.svg)](https://GitHub.com/DanielYago/test_repo_public/graphs/contributors/)
-[![GitHub forks](https://img.shields.io/github/forks/DanielYago/test_repo_public.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/DanielYago/test_repo_public/network/)
-[![GitHub watchers](https://img.shields.io/github/watchers/DanielYago/test_repo_public.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/DanielYago/test_repo_public/watchers/)  
+[![GitHub watchers](https://img.shields.io/github/watchers/DanielYago/test_repo_public.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/DanielYago/test_repo_public/watchers/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 <!--[![DOI:XXX](https://zenodo.org/badge/DOI/XXX.svg)](https://doi.org/XXX)-->
 
